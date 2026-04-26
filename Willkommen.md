@@ -9,6 +9,8 @@ Hier sammle und veröffentliche ich Wissen, das im digitalen Alltag wirklich nü
 
 Dieses Playbook ist als kompakte Ergänzung zu meiner Webseite gedacht. Wenn du mehr über mich und meine Arbeit wissen willst, findest du den Einstieg hier: [juergen-schadek.de](https://juergen-schadek.de).
 
+Das Repository zu diesem Playbook findest du auf GitHub: [juergen-schadeks-playbook](https://github.com/juergen-schadek/juergen-schadeks-playbook).
+
 ## 🕒 Zuletzt aktualisiert
 
 %% DATAVIEW_PUBLISHER: start
