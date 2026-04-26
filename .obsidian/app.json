@@ -1,1 +1,8 @@
-{}
+{
+  "openBehavior": "file:Willkommen",
+  "newLinkFormat": "absolute",
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "trashOption": "local",
+  "attachmentFolderPath": "Ressourcen"
+}

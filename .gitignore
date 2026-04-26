@@ -1,0 +1,17 @@
+# Jürgen Schadek's Playbook
+# Git-Ignore für das Playbook von Jürgen Schadek
+
+# Betriebssystem-Dateien
+.DS_Store
+
+# Obsidian: lokale Zustände und Cache
+.obsidian/cache/
+.obsidian/workspace.json
+
+# Obsidian: lokaler Papierkorb
+.trash/
+
+# Temporäre Dateien
+*.tmp
+*.temp
+*~
