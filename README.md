@@ -4,7 +4,7 @@
 [![Publish](https://img.shields.io/badge/Obsidian-Publish-8B5CF6?logo=obsidian&logoColor=white)](https://obsidian.md/publish)
 [![Playbook](https://img.shields.io/badge/Playbook-live-059669?logo=readme&logoColor=white)](https://publish.obsidian.md/juergen-schadeks-playbook/)
 [![Website](https://img.shields.io/badge/Website-juergen--schadek.de-0F172A?logo=firefoxbrowser&logoColor=white)](https://juergen-schadek.de)
-[![Topics](https://img.shields.io/badge/Topics-Systeme%20%7C%20Tools%20%7C%20Arbeitsweise-0EA5E9)](#inhalte)
+[![Topics](https://img.shields.io/badge/Topics-Systeme%20%7C%20Tools%20%7C%20Arbeitsweise-0EA5E9)](#überblick)
 
 **Organisiert und produktiv im digitalen Alltag.**  
 Mit Systemen, Tools und praxiserprobten Lösungen.
@@ -65,8 +65,8 @@ Weitere Informationen zu Jürgen Schadek und seiner Arbeit:
 
 [juergen-schadek.de](https://juergen-schadek.de)
 
-## Playbook
+## GitHub
 
-Öffentliche Version des Playbooks:
+Öffentliches GitHub-Repository des Playbooks:
 
-[publish.obsidian.md/juergen-schadeks-playbook](https://publish.obsidian.md/juergen-schadeks-playbook/)
+[github.com/juergen-schadek/juergen-schadeks-playbook](https://github.com/juergen-schadek/juergen-schadeks-playbook)
